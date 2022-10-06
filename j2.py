@@ -8,10 +8,13 @@ for _ in range(players):
     fouls: int = int(input())
 
     # // If total points - fouls is greater than 40
-    if (points*5) - (fouls*3) > 40: res+=1
+    if (points * 5) - (fouls * 3) > 40:
+        res += 1
 
-# // If perfect score, print res and +
-if res == players: print(f"{res}+")
+# // If perfect score, print res and + (gold star)
+if res == players: 
+    print(f"{res}+")
 
-# // Else just print res
-else: print(res)
+# // Else just print the result
+else: 
+    print(res)
