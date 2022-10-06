@@ -1,6 +1,11 @@
 # CCC Junior Solutions ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/CCC_Junior_Solutions?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/CCC_Junior_Solutions?label=Watchers)
 ![Clio_2020-Blog_Image-Programming_for_Lawyers](https://user-images.githubusercontent.com/75189508/194365609-0d547af9-c745-4102-8b63-036006990846.png)
 
+# Problem Sets
+
+- https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2022/ccc/juniorEF.pdf
+
+
 # License
 MIT License
 
