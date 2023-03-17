@@ -3,7 +3,7 @@
 
 # Problem Sets
 
-- https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2022/ccc/juniorEF.pdf
+- https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2023/ccc/juniorEF.pdf
 
 
 # License
